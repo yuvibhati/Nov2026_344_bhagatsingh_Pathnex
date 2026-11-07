@@ -1,0 +1,19 @@
+# Day 07 — 07 November 2026
+
+# What I Did Today
+1 Hour - Ansible — Setup Nginx with Custom Config
+1 Hour - Terraform — Provision EC2 with IAM Role
+1 Hour - Kubernetes — ConfigMap and Secret Management
+1 Hour - Shell Scripting — Archive Logs
+1 Hour - Docker — Build and Run Java Application using Dockerfile
+
+
+
+# What I Will Do Tomorrow
+1 Hour - Ansible — Install Docker Compose
+1 Hour - Terraform — Provision EC2 with Security Group and EBS Volume
+1 Hour - Kubernetes — Create Service with NodePort
+1 Hour - Jenkins — Docker Build and Push
+1 Hour - GitLab CI/CD — Build and Push Docker Image
+1 Hour - Docker — Build and Run Alpine Linux Container
+~
