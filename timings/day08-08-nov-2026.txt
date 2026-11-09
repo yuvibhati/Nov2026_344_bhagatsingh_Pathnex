@@ -1,0 +1,19 @@
+Day 08 — 08 November 2026
+What I Did Today
+1 Hour - Ansible — Install Docker Compose
+1 Hour - Terraform — EC2 with Security Group and EBS Volume
+30 mins  - English speaking
+1 Hour - Kubernetes — Create Service with NodePort
+1 Hour - Jenkins — Docker Build and Push
+1 Hour - GitLab CI/CD — Build and Push Docker Image
+1 Hour - Docker — Build and Run Alpine Linux Container
+
+
+What I Will Do Tomorrow
+1 Hour - Ansible — Setup Docker Container for Nginx
+1 Hour - Terraform — Provision EC2 with Auto Scaling Group
+30 mins - English speaking
+1 Hour - Kubernetes — Configure Horizontal Pod Autoscaler (HPA)
+1 Hour - Jenkins — Deploy Application to Kubernetes
+1 Hour - GitLab CI/CD — Deploy Application to Kubernetes
+1 Hour - Docker — Use Environment Variables in Dockerfile
