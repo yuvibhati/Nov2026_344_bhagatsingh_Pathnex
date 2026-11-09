@@ -1,0 +1,21 @@
+# Day 09 — 09 November 2026
+
+# What I Did Today
+
+1 Hour - Ansible — Setup Docker Container for Nginx  
+1 Hour - Terraform — Provision EC2 with Auto Scaling Group  
+1 Hour - Kubernetes — Horizontal Pod Autoscaler (HPA)  
+30 mins - English speaking
+1 Hour - Jenkins — Deploy to Kubernetes  
+1 Hour - GitLab CI/CD — Deploy to Kubernetes  
+1 Hour - Docker — Environment Variables
+
+# What I Will Do Tomorrow
+
+1 Hour - Ansible — Create Docker Containers for Multiple Applications  
+1 Hour - Terraform — Create VPC with Private and Public Subnets  
+1 Hour - Kubernetes — Deploy StatefulSet  
+30 mins - English speaking
+1 Hour - Jenkins — Build and Deploy to Kubernetes  
+1 Hour - GitLab CI/CD — Build, Push, and Deploy Docker Image  
+1 Hour - Docker — Working Directory and COPY
