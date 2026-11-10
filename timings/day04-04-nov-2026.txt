@@ -1,0 +1,22 @@
+Day 04 — 04 November 2026
+
+What I Did Today
+
+1 Hour - Jenkins — Basic CI Pipeline using Jenkinsfile
+1 Hour - GitLab CI/CD — Create a Basic Pipeline
+1 Hour - Ansible — Install and Configure Nginx
+1 Hour - Terraform — EC2 with Security Group
+1 Hour - Docker — Build Apache Container using Dockerfile
+30 mins - Bash — Understand Apache Web Server Document Root (/var/www/html)
+30 mins - English speaking
+
+
+# Day 05 — 05 November 2026
+## What I Will Do Tomorrow
+1 Hour - Jenkins — CI Pipeline with Git Integration and Testing
+1 Hour - GitLab CI/CD — Build and Push Docker Image
+1 Hour - Ansible — Create User and Set Permissions
+30 mins - English speaking
+1 Hour - Terraform — Create EC2 Instance with Tags and EBS Volume
+1 Hour - Docker — Build and Run Python Application using Dockerfile
+~

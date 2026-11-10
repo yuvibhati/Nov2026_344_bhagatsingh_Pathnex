@@ -1,0 +1,18 @@
+# Day 06 — 06 November 2026
+
+## What I Did Today
+1 Hour - Ansible — Install and Configure Docker
+1 Hour - Terraform — Provision EC2 Instance with VPC
+30 mins - English speaking
+1 Hour - Kubernetes — Create Pod with Volume Mount
+1 Hour - Shell Scripting — Check for Running Services
+1 Hour - Docker — Build and Run Node.js Application using Dockerfile
+
+
+## What I Will Do Tomorrow
+1 Hour - Ansible — Setup Nginx with Custom Configuration
+1 Hour - Terraform — Provision EC2 Instance with IAM Role
+30 mins - English speaking
+1 Hour - Kubernetes — Learn ConfigMaps and Secrets
+1 Hour - Shell Scripting — Archive Log Files
+1 Hour - Docker — Build and Run Java Application using Dockerfile

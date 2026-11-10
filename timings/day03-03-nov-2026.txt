@@ -1,0 +1,20 @@
+Day 03 — 03 November 2026
+
+What I Did Today
+
+1 Hour - Ansible — Install Apache & Start Service
+30 mins - English Speaking
+1 Hour - Terraform — EC2 Instance (t3.medium)
+1 Hour - Kubernetes — ReplicaSet with 3 Replicas
+1 Hour - Shell Scripting — User Information
+1 Hour - Docker — Nginx Web Server using Dockerfile
+
+
+What I Will Do Tomorrow
+
+1 Hour - Jenkins — Basic CI Pipeline using Jenkinsfile
+1 Hour - GitLab CI/CD — Create a Basic Pipeline
+1 Hour - Ansible — Install and Configure Nginx
+1 Hour - Terraform — EC2 with Security Group
+1 Hour - Docker — Build Apache Container using Dockerfile
+30 mins - English Speaking
